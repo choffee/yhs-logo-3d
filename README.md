@@ -5,7 +5,7 @@ These are made using the logo at https://github.com/tomwardill/york-hack-space
 You should be able to export them to STL then print as they are for about 50
 pence coin size.
 
-![Photo of first print](2012-10-07 21.50.43.jpg)
+![Photo of first print](https://choffee.github.com/yhs-logo-3d/images/first_prints.jpg)
 
 
 I still want to improve them with the following.
