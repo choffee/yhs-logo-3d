@@ -5,6 +5,9 @@ These are made using the logo at https://github.com/tomwardill/york-hack-space
 You should be able to export them to STL then print as they are for about 50
 pence coin size.
 
+![Photo of first print](2012-10-07 21.50.43.jpg)
+
+
 I still want to improve them with the following.
 
 The petals could do with a nicer shape.
