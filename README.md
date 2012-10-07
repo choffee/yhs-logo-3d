@@ -2,6 +2,8 @@ OpenSCAD files for the York hack space logo
 
 These are made using the logo at https://github.com/tomwardill/york-hack-space
 
+The main file is logo.scad everything else is included from there.
+
 You should be able to export them to STL then print as they are for about 50
 pence coin size.
 
