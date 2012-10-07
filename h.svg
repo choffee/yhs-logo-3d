@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg3129"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="New document 5">
+  <defs
+     id="defs3131" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="375"
+     inkscape:cy="520"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="511"
+     inkscape:window-height="434"
+     inkscape:window-x="2"
+     inkscape:window-y="91"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata3134">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g238"
+       transform="matrix(1.0229817,0,0,1.0517246,317.85293,344.42011)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path240"
+         d="M 55.164,90.671 42.742,78.248 44.861,76.13 30.051,61.318 27.932,63.438 15.511,51.018 34.132,32.396 46.554,44.817 42.509,48.863 45.051,51.405 55.553,40.902 53.012,38.36 49.105,42.267 36.682,29.846 55.164,11.364 67.586,23.786 65.468,25.905 80.276,40.715 82.396,38.596 94.819,51.018 76.337,69.5 63.914,57.077 67.82,53.171 65.754,51.103 55.251,61.607 57.316,63.673 61.361,59.627 73.786,72.05 55.164,90.671 z"
+         style="fill:#eed706;stroke:#6b2910" />
+    </g>
+  </g>
+</svg>
